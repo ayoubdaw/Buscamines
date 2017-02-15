@@ -7,7 +7,7 @@ package buscaminas;
 
 /**
  *
- * @author Llorenç
+ * @author Ayoub
  */
 public class Buscaminas {
     
